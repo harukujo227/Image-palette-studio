@@ -133,6 +133,6 @@ MIT — do whatever, just don't sue.
 
 <div align="center">
 
-Built by **[Satoshi](https://github.com/aozoragh)** · Source on [GitHub](https://github.com/aozoragh/image-palette-studio)
+Built by **[Satoshi](https://github.com/harukujo227)**
 
 </div>
