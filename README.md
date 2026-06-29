@@ -10,7 +10,7 @@ Drop an image, get a polished palette with WCAG contrast checks, preview a gener
 [![Svelte 5](https://img.shields.io/badge/Svelte-5-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?logo=vite&logoColor=white)](https://vitejs.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-aozoragh%2Fimage--palette--studio-181717?logo=github&logoColor=white)](https://github.com/aozoragh/image-palette-studio)
+
 
 <br />
 
