@@ -133,6 +133,6 @@ MIT — do whatever, just don't sue.
 
 <div align="center">
 
-Built by **[Satoshi](https://github.com/harukujo227)**
+Built by **[HaruKujo](https://github.com/harukujo227)**
 
 </div>
